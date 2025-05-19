@@ -1,0 +1,7 @@
+uvicorn[standard]==0.22.0
+fastapi[all]==0.100.0
+sqlalchemy
+pytest
+coverage
+
+pre-commit
